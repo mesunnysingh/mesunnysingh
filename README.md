@@ -1,15 +1,9 @@
----
-title: sunnykumarsingh
-date: '2020-14-05'
-spoiler: Dynamic Realtime Readme Template
-categories: ["dynamic-realtime", "all-profile"]
-githubUsername: 'abhisheknaiidu'
----
 
-### Hey 👋🏽, I'm [Abhishek!](https://abhisheknaidu.tech) 
 
-<a href="https://twitter.com/geeky_abhiz">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+### Hey 👋🏽, I'm [Sunny Kumar Singh!] 
+
+<a href="https://twitter.com/@Sunnykuamrsing1">
+  <img align="left" alt="| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -46,7 +40,7 @@ Hi, I'm Abhishek Naidu, a Full Stack Developer 🚀 from India, currently, I'm a
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far!
 - 📫 How to reach me: geekyabhi12@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
+- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn
 
 **Languages and Tools:**  
 
